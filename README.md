@@ -82,8 +82,11 @@ X will request that you:
 - Agree to its terms of service and privacy policies.
 
 - And voila! Welcome to X.
+  
 
-(Add an image.)
+<img width="1266" alt="X Homepage" src="https://github.com/Ijeoma-Onwuka/Technical-Blogs/assets/52813040/0621bdf4-c36e-42d4-a145-1e2d7427a9fd">
+
+
 
 ### **Step 3: Set up your profile**
 
