@@ -28,9 +28,9 @@ Once you have an account, you can follow other people and organizations that int
 
 You can also use your posts to share your thoughts, ideas, or anything else you want with your followers. Users can leave a comment, click the heart icon to like your post, or click the circular arrow button to repost and share it with their followers.
 
-Twitter is a great place to have discussions. You can respond to a post by clicking the reply button, and others can do the same for yours.
+X is a great place to have discussions. You can respond to a post by clicking the reply button, and others can do the same for yours.
 
-Twitter is an easy way to keep up with current events, connect with friends, and learn about topics that interest you.
+It is an easy way to keep up with current events, connect with friends, and learn about topics that interest you.
 
 How can you get started?
 
@@ -110,7 +110,7 @@ To make your first post, type a message of 280 characters or less into the text 
 
 The character count decreases as you type. In the post composer, X included a tiny circle icon that will change from dark blue to yellow to red as you write more characters. When red characters appear, you've written too much. Remove a few words, then hit the publish button.
 
-[Threads](https://business.twitter.com/en/blog/twitter-101-writing-a-thread.html#:~:text=Whether%20you're%20Tweeting%20on,a%20one%2Doff%20Tweet%20might.) are useful if you have more to say than the 280-character limit allows. To start a thread, click the plus icon to the right of the post button, and another post composer will appear, allowing you to write more and more, then publish it all at once by selecting **Post All.**
+[Threads](https://business.twitter.com/en/blog/twitter-101-writing-a-thread.html#:~:text=Whether%20you're%20Tweeting%20on,a%20one%2Doff%20Tweet%20might.) are useful if you have more to say than the 280-character limit allows. To start a thread, click the plus icon to the right of the post button, and another post composer will appear, allowing you to write more and more, then publish it all at once by clicking **Post All.**
 
 ## **Follow other users**
 
@@ -120,7 +120,7 @@ Take some time to follow other users whose content you like or who are in a simi
 
 X is a great social media marketing platform if you know how to use it right, but you have to take your time to learn how the platform works.
 
-This guide has explained what X is, what it is used for, and how it works. We also covered how to set up your profile, create your account, and make your first post in detail.
+This guide has explained what X is, what it is used for, and how it works. It also covered how to set up your profile, create your account, and make your first post in detail.
 
 Because X has such a large user base, expanding your brand or business will always be a rewarding experience.
 
