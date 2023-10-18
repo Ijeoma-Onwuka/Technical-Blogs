@@ -46,7 +46,8 @@ You can find X on Android and iOS devices in the Google Play Store and App Store
 
 If you want to sign up via desktop, go to the [X website](http://x.com/)
 
-(Add an image.)
+<img width="1138" alt="X Signup page" src="https://github.com/Ijeoma-Onwuka/Technical-Blogs/assets/52813040/fd10cddd-a319-42a5-a7eb-3e2b8c4bd98f">
+
 
 ### **Step 2: Create your account and choose a username**
 
